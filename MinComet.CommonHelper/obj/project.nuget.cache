@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jKrEN+CBfTrqG4oQAQpELAIOWjUTmIU9vM4ry0A4N6tETCFgrGOFHBoxJjtralTWi73XDmmy8AManaAeu2cdig==",
+  "success": true,
+  "projectFilePath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FJH\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
