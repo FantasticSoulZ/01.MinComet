@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using MinComet.CommonHelper.SnowMaker;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +28,11 @@ namespace MinComet.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddApplication<MinCometApiModule>();
+            services.AddSnowflake(opt=> {
+                opt.WorkId = 1;
+                opt.WorkIdLength = 10;
+                opt.StartTimeStamp = DateTime.Parse("1997-02-17"); //DateTime.Now;
+            });
             //services.AddControllers();
             //services.AddSwaggerGen(c =>
             //{
@@ -55,6 +61,10 @@ namespace MinComet.Api
             //{
             //    endpoints.MapControllers();
             //});
+
+            //app.UseRouting();
+            //app.UseConfiguredEndpoints();
+            //app.UseAuthorization();
         }
     }
 }

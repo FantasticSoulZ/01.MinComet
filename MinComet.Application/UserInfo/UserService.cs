@@ -13,7 +13,7 @@ namespace MinComet.Application.UserInfo
 {
     public class UserService : ApplicationService, IUserService
     {
-        private readonly IRepository<Users> _userRepository;
+        private IRepository<User> _userRepository;
 
         //private readonly MinCometDbContext _minCometDbContext;
 
@@ -21,7 +21,7 @@ namespace MinComet.Application.UserInfo
         //    this._minCometDbContext = minCometDbContext;
         //}
 
-        public UserService(IRepository<Users> userRepository) {
+        public UserService(IRepository<User> userRepository) {
             this._userRepository = userRepository;
         }
         public async Task<object> Login(string account, string password)
@@ -47,7 +47,7 @@ namespace MinComet.Application.UserInfo
         {
             try
             {
-                Users user = new Users();
+                User user = new User();
                 user.Account = userDto.Account;
                 user.UserName = userDto.UserName;
                 user.Salt = UtilsHelper.GetRandomStr(8);

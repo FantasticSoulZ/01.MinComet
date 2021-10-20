@@ -7651,11 +7651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.EntityFrameworkCore\\MinComet.EntityFrameworkCore.csproj",
+      "projectUniqueName": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.EntityFrameworkCore\\MinComet.EntityFrameworkCore.csproj",
       "projectName": "MinComet.EntityFrameworkCore",
-      "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.EntityFrameworkCore\\MinComet.EntityFrameworkCore.csproj",
+      "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.EntityFrameworkCore\\MinComet.EntityFrameworkCore.csproj",
       "packagesPath": "C:\\Users\\FJH\\.nuget\\packages\\",
-      "outputPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.EntityFrameworkCore\\obj\\",
+      "outputPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\MyWorkSpace\\MyTool\\VisualStudio\\Shared\\NuGetPackages",
@@ -7679,8 +7679,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.Domain\\MinComet.Domain.csproj": {
-              "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.Domain\\MinComet.Domain.csproj"
+            "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.Domain\\MinComet.Domain.csproj": {
+              "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.Domain\\MinComet.Domain.csproj"
             }
           }
         }

@@ -21,6 +21,7 @@ namespace MinComet.Api
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                })
+            .UseAutofac();
     }
 }

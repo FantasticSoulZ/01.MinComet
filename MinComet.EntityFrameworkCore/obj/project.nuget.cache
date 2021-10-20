@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IK1/t03qYJkynIcoC/2Hc7zDSHYdchCqwK5GH24aTtPER0wMUv4yLRCXsrBxu9exL0vw4kTlqqRICP09QHwd8Q==",
+  "dgSpecHash": "JBIOqbfXPVgkKj8OsB7bqWmzB9MGNHfG5EpCLnxe6XWk3OiL+8D5vURt+Mdw96NFqILeNQvxU217RcavDDZVYA==",
   "success": true,
-  "projectFilePath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.EntityFrameworkCore\\MinComet.EntityFrameworkCore.csproj",
+  "projectFilePath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.EntityFrameworkCore\\MinComet.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FJH\\.nuget\\packages\\jetbrains.annotations\\2020.3.0\\jetbrains.annotations.2020.3.0.nupkg.sha512",
     "C:\\Users\\FJH\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.9\\microsoft.aspnetcore.authorization.5.0.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahB4hpEZGhZGmVjFj1Gdfm7KEb7cJATtdiwbCyxhIK3y3KB4OeAG6zWXq6WP5gQl9aJm9XwdhpaujCrhKgDLcA==",
+  "dgSpecHash": "Kp6H2/Phb9JP1zX1HUnyTN3ob97C7ChzTAgoDP2h+3kxgi6YjffAaaLDJNMQIVWXd7+kGZYJkxOV3LsmFxomMw==",
   "success": true,
-  "projectFilePath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.Application\\MinComet.Application.csproj",
+  "projectFilePath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.Application\\MinComet.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FJH\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\FJH\\.nuget\\packages\\jetbrains.annotations\\2020.3.0\\jetbrains.annotations.2020.3.0.nupkg.sha512",

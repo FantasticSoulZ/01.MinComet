@@ -16,19 +16,19 @@ namespace MinComet.Api.Controllers.Home
             return "hello world";
         }
 
-        [HttpPost]
-        public async Task<object> DoLogin()//UserDto user) 
-        {
-            //return _userService.Login(user.Account, user.Password);
-            return "test";
-        }
+        //[HttpPost]
+        //public async Task<object> DoLogin()//UserDto user) 
+        //{
+        //    //return _userService.Login(user.Account, user.Password);
+        //    return "test";
+        //}
 
-        [HttpPost]
-        [Route("register")]
-        public async Task<bool> DoRegister()//UserDto user)
-        {
-            //return _userService.Register(user);
-            return true;
-        }
+        //[HttpPost]
+        //[Route("register")]
+        //public async Task<bool> DoRegister()//UserDto user)
+        //{
+        //    //return _userService.Register(user);
+        //    return true;
+        //}
     }
 }

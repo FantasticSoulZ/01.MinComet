@@ -874,3 +874,11 @@ D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\obj\Debug\net5.0
 D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\obj\Debug\net5.0\ref\MinComet.Api.dll
 D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\obj\Debug\net5.0\MinComet.Api.pdb
 D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\obj\Debug\net5.0\MinComet.Api.genruntimeconfig.cache
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Autofac.dll
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Castle.Core.dll
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Volo.Abp.Autofac.dll
+D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Api\bin\Debug\net5.0\Volo.Abp.Castle.Core.dll

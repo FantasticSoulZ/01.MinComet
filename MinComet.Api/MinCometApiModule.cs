@@ -7,13 +7,13 @@ using MinComet.EntityFrameworkCore;
 using System;
 using Volo.Abp;
 using Volo.Abp.AspNetCore.Mvc;
-//using Volo.Abp.Autofac;
+using Volo.Abp.Autofac;
 using Volo.Abp.Modularity;
 
 namespace MinComet.Api
 {
     [DependsOn(
-        //typeof(AbpAutofacModule),
+        typeof(AbpAutofacModule),
         typeof(AbpAspNetCoreMvcModule),
         typeof(MinCometEntityFrameworkCoreModule),
         typeof(MinCometApplicationModule)
@@ -32,7 +32,7 @@ namespace MinComet.Api
             });
 
             var services = context.Services;
-            // services.AddControllers();
+            //services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1.1.2", new OpenApiInfo { Title = "MinComet", Version = "v1" });
@@ -53,9 +53,9 @@ namespace MinComet.Api
 
             //app.UseHttpsRedirection();
 
-            //app.UseRouting();
-
-            //app.UseAuthorization();
+            app.UseRouting();
+            app.UseConfiguredEndpoints();
+            ////app.UseAuthorization();
 
             //app.UseEndpoints(endpoints =>
             //{

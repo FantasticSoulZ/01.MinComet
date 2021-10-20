@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj": {}
+    "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj": {}
   },
   "projects": {
-    "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj": {
+    "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj",
+        "projectUniqueName": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj",
         "projectName": "MinComet.CommonHelper",
-        "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj",
+        "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.CommonHelper\\MinComet.CommonHelper.csproj",
         "packagesPath": "C:\\Users\\FJH\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.CommonHelper\\obj\\",
+        "outputPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.CommonHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\MyWorkSpace\\MyTool\\VisualStudio\\Shared\\NuGetPackages",
@@ -47,6 +47,18 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"

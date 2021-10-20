@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = MinComet.Application
-build_property.ProjectDir = D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\MinComet.Application\
+build_property.ProjectDir = D:\MyWorkSpace\MyProject\01.MinComet(abp)\MinComet\01.MinComet\MinComet.Application\

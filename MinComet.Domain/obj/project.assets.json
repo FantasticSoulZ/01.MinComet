@@ -3932,11 +3932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.Domain\\MinComet.Domain.csproj",
+      "projectUniqueName": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.Domain\\MinComet.Domain.csproj",
       "projectName": "MinComet.Domain",
-      "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.Domain\\MinComet.Domain.csproj",
+      "projectPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.Domain\\MinComet.Domain.csproj",
       "packagesPath": "C:\\Users\\FJH\\.nuget\\packages\\",
-      "outputPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\MinComet.Domain\\obj\\",
+      "outputPath": "D:\\MyWorkSpace\\MyProject\\01.MinComet(abp)\\MinComet\\01.MinComet\\MinComet.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\MyWorkSpace\\MyTool\\VisualStudio\\Shared\\NuGetPackages",
